@@ -12,3 +12,7 @@ Fermín L. Cruz, José A. Troyano, Beatriz Pontes, and F. Javier Ortega. 'Buildi
 ## File: ML_lexicon
 This file contains commands to transform the .xml file into a dictionary usable in R. It is divided into 5 steps. In the end, you will find an object 'sentiments_dico_esp.' You can use this object with the tokens_lookup function from the quanteda package.
 
+## File: exemple
+
+In the file example.R, you will find an example of using the dictionary for the analysis of a corpus of tweets downloaded in 2022 during the attack against Cristina Kirchner in Buenos Aires.
+
